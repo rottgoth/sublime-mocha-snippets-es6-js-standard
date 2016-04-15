@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[
-before${1:Each}((${2:done}) => {
+before${1:Each}(${2:done} => {
 	${3:}
+	${2:done}();
 });
 ]]></content>
 	<tabTrigger>befr</tabTrigger>
