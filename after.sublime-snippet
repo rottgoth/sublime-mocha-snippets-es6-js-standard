@@ -7,6 +7,3 @@ after${1:Each}((${2:done}) => {
 	<tabTrigger>aftr</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
-
-
-it
