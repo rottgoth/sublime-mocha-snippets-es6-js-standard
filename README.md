@@ -3,9 +3,10 @@
 ## Installation
 
 Install from Sublime's Package Control.
-1) Package Control: Add respository
-2) paste: https://github.com/CurtisHumphrey/sublime-mocha-snippets-es6-js-standard.git
-3) Install via Package Control normally
+
+1. Package Control: Add respository
+2. paste: https://github.com/CurtisHumphrey/sublime-mocha-snippets-es6-js-standard.git
+3. Install via Package Control normally
 
 ## sublime text 2/3 ES6 snippets for mocha
 
